@@ -93,7 +93,7 @@ function App() {
                             className="rounded-2 btn btn-primary my-md-2" 
                             id="ajout"
                             onClick={ajouterTache}>Ajouter 
-                            <img src="images/ajouter.png" alt="ajouter logo" className="mx-2" />
+                            <i className="fa-regular fa-file-circle-plus mx-2"></i>
                         </button>                    
                     </div>  
                 </div>
